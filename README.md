@@ -42,5 +42,5 @@
 #### 参与贡献
 
 1.  [Cyril0563](https://github.com/Cyril0563)
-2.  [winwuyao](https://github.com/wingwuyao)
+2.  [Winwuyao](https://github.com/wingwuyao)
 
