@@ -20,7 +20,7 @@
 <h4>接口地址：（一周~两周会维护一次直播源，平稳在线）</h4>
 <h5>PLUS版源包含:央视频道+地方频道+少儿频道+港澳频道+电影频道+景区直播+电台之声+高清专属4k （频道全面、任君选择、拓宽知识）</h5>
 <h5>LIGHT版源包含:央视频道+地方频道+高清专属4k（简洁清爽、自用或给年长用户观看）</h5>
-<h5>服务器地区：</h5>
+<h5>服务器地区(国内直连)：</h5>
 <p>华东地区【荐】
 <P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json</P>
 <P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_light.json</P>
@@ -29,9 +29,21 @@
 <P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_plus.json</P>
 <P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_light.json</P>
 </P>
-<p>香港HK区
+<p>香港HK区【港澳台】
 <P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hk/live_plus.json</P>
 <P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hk/live_light.json</P>
+<h5>服务器地区(镜像访问)：</h5>
+<p>华东地区【荐】
+<P>PLUS版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_plus.json</P>
+<P>LIGHT版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_light.json</P>
+</P>
+<p>华南地区【备选】
+<P>PLUS版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hn/live_plus.json</P>
+<P>LIGHT版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hn/live_light.json</P>
+</P>
+<p>香港HK区【港澳台】
+<P>PLUS版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hk/live_plus.json</P>
+<P>LIGHT版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hk/live_light.json</P>
 </P>
 
 #### 重要说明
