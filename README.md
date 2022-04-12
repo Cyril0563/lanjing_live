@@ -25,7 +25,7 @@
 <P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json</P>
 <P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_light.json</P>
 </P>
-<p>华南地区
+<p>华南地区【备选】
 <P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_plus.json</P>
 <P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_light.json</P>
 </P>
