@@ -2,6 +2,11 @@
 <h1 align="center">🐋蓝鲸直播源——在开源的海洋里遨游！</h1>
 <h3 align="left">长期维护电视直播接口、猫影视TV、IPTV、BIUBIU TV、等影视及m3u8播放器通用接口都可以观看</h3>
 
+![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
+<p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
+
+#### <！！！由于接口不稳定性，关注公众号随时获取最新接口！！！>
+
 <h3 align="left">如何使用：</h3>
 <p>一、能支持播放当前接口的电视APP</P>
 <p>二、复制粘贴🐋蓝鲸直播源接口</P>
