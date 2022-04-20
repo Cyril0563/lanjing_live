@@ -1,0 +1,32 @@
+国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
+探索频道,http://iptv.tvfix.org/hls/discovery.m3u8
+动物星球,http://iptv.tvfix.org/hls/animal.m3u8
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+探索頻道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+TLC旅遊生活,mitv://ns2.hellotvvod.com:9906/785e9237d2864f23b3fbf5e72b645812
+動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/fd64478e967b43f79c151425ad75030f
+達文西頻道,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
+國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
+DMAX,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
+歷史頻道,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
+罪案偵緝頻道,mitv://ns2.hellotvvod.com:9906/969d3da0dc624b599160cda58bd5daa2
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+LUXE TV,mitv://ns2.hellotvvod.com:9906/a6a73818f9aa4fd992d966aac4b49c20
+Lifetime,mitv://ns2.hellotvvod.com:9906/698e4db64e93463a814fc462cb15b1f4
+KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/92963da196424063a1f58303dc21da2e
+HGTV居家樂活頻道,mitv://ns2.hellotvvod.com:9906/3ae6806990ac44dbbd5a83eea77fef7e
+Love Nature,mitv://ns2.hellotvvod.com:9906/5b4aa7c53c974767aad85f24fc19d550
+美食星球,mitv://ns2.hellotvvod.com:9906/045aa067f54a4a5bb2f5dc17190417cf
+亞洲美食頻道,mitv://ns2.hellotvvod.com:9906/c0c700a32db94ca281b74e44d84b5b66
+Food Network,mitv://ns2.hellotvvod.com:9906/9590a6420c3d45649e9d2251f0fcf1d0
+亞洲旅遊台,mitv://ns2.hellotvvod.com:9906/b52d03f4997a48b88d4ff3a86d2fa8de
+EYE TV旅遊台,mitv://ns2.hellotvvod.com:9906/5512ec54a1254879b4e39f92b63565ab
+時尚頻道,mitv://ns2.hellotvvod.com:9906/a6cb54e5bd294cc98064df05ad1b3fc1
+CCTV9,mitv://ns2.hellotvvod.com:9906/57cbe284a7a94ccf8621a50752c61a16
+Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/3a0602f78e5e4c368fbf0d056436ee5d

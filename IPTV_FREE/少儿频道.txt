@@ -1,0 +1,87 @@
+Bestv动画1,rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
+Bestv动画2,rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
+黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
+哈哈炫动,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
+金鹰卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+金鹰卡通,http://183.207.249.5:80/PLTV/4/224/3221226303/index.m3u8?
+嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
+优漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+优漫卡通,http://183.207.249.15:80/PLTV/4/224/3221225933/index.m3u8?
+黑莓动画,http://183.207.248.71:80/cntv/live1/donghuawg/donghuawg
+动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+哈哈炫动,http://iptv.tvfix.org/hls/hhxdhd.m3u8
+金鹰卡通,http://iptv.tvfix.org/hls/jykttv.m3u8
+优漫卡通,http://iptv.tvfix.org/hls/ymkttv.m3u8
+新动漫,http://iptv.tvfix.org/hls/xdmtv.m3u8
+卡酷少兒,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+卡酷少兒,http://ott.js.chinamobile.com/PLTV/4/224/3221226305/index.m3u8
+卡酷少兒,http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
+新科動漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+金鷹卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+優漫卡通,http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+卡酷少兒,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
+動漫秀場,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+云南少儿,http://39.130.202.81:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8
+南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+甘肃少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+深圳少儿,http://ye23.win/iptv/sztv.php?id=7
+福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
+哆啦A梦,http://106.53.212.251/daili/bili.php?id=1717236
+哆啦A梦新版,http://106.53.212.251/daili/bili.php?id=12811814
+中华小当家,http://106.53.212.251/daili/bili.php?id=655291
+樱桃小丸子,http://106.53.212.251/daili/bili.php?id=11765640
+蜡笔小新,http://106.53.212.251/daili/bili.php?id=11579951
+猫和老鼠,http://106.53.212.251/daili/bili.php?id=22905626
+小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+开心汉堡店,http://106.53.212.251/daili/bili.php?id=2308015
+国语犬夜叉,http://106.53.212.251/daili/bili.php?id=23089518
+英文儿歌,http://118.26.120.23:55336/tslive/c55_lb_128_600_t10/c55_lb_128_600_t10.m3u8?key=0b292c335e5837e94dd521635e537be73
+童年经典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
+玩具乐园,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
+猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
+怀旧动画,http://118.26.120.36:55336/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
+巧虎,http://118.26.120.37:55336/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
+小猪佩寄,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
+宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
+宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
+奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
+喜羊羊,http://118.26.120.23:55336/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8?key=0b292c335e5837e943e554ef181bdcec1
+名贞探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+动画电影,http://118.26.120.36:55336/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8?key=0b292c335e5837e94f25985f7c35b1efe
+动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
+兔小贝尔歌,http://118.26.120.22:55336/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
+儿童乐园,http://118.26.120.23:55336/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
+儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
+倒霉熊,http://118.26.120.37:55336/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
+亲子小游戏,http://118.26.120.23:55336/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
+亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+CN卡通頻道,mitv://ns2.hellotvvod.com:9906/51e593fae95f48968c181b6a47179526
+迪士尼頻道,mitv://ns2.hellotvvod.com:9906/d24a14f362fb47d8a603b41462ad0f9b
+MOMO親子台,mitv://ns2.hellotvvod.com:9906/d3ae733f3d61464e8f240d812c0b1516
+Animax,mitv://ns2.hellotvvod.com:9906/10d8ae908a354513b09e38e7116b7b33
+靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/f356d20c5a374fef82a196fadfe38a77
+靖天卡通台,mitv://ns2.hellotvvod.com:9906/bb214f3596dd4b1c8bae816edff835be
+Cbeebies,mitv://ns2.hellotvvod.com:9906/65758ebebbb5437cbfdb4b5c88597bf9
+達文西頻道,mitv://ns2.hellotvvod.com:9906/191725f8a02546c1bec1bb92aab127ab
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/89ac75b06f7f4721be3f6a4d12eb71d3
+CCTV14,mitv://ns2.hellotvvod.com:9906/6ee2ee86a5154416880be4c97254d93a
+金鷹卡通,mitv://ns2.hellotvvod.com:9906/81c74b1fdbcd469e9bd5c493f4d40e31
+Astro小太陽,mitv://ns2.hellotvvod.com:9906/0d5ecafe8f494863ac5bad999b6a1f0f
+Astro Ceria,mitv://ns2.hellotvvod.com:9906/aac054f65a244206b6f782eb3956e130
+Disney Junior,mitv://ns2.hellotvvod.com:9906/e6075b2e8d544804921f5055e4871326
+Cartoon Network,mitv://ns2.hellotvvod.com:9906/44285c9480dc4d0eaa2e09f741531878
+Nickelodeon,mitv://ns2.hellotvvod.com:9906/88de2585472246749d43969d1c03257d
+Nick Jr.,mitv://ns2.hellotvvod.com:9906/0355fc81f0cf4527840ff76e185df41e
+Baby TV,mitv://ns2.hellotvvod.com:9906/86a3e0ba0bed4d6297376b8f57c5752a
+Boomerang,mitv://ns2.hellotvvod.com:9906/e80e0ea046cc4206a9935c6997310ca5

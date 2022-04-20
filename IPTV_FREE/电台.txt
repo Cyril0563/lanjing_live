@@ -1,0 +1,72 @@
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
+CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 南海之声,http://live.xmcdn.com/live/1054/64.m3u8
+CRI 南海之声,http://ls.qingting.fm/live/62624.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI Hit FM FM88.7,http://live.xmcdn.com/live/75/64.m3u8
+CRI Hit FM FM88.7,http://ls.qingting.fm/live/1007.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM846,http://ls.qingting.fm/live/4584.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM1008,http://ls.qingting.fm/live/4584.m3u8
+CRI Sydney,http://ls.qingting.fm/live/4584.m3u8
+CNR 经济之声,http://live.xmcdn.com/live/1066/64.m3u8
+CNR 经济之声,http://ls.qingting.fm/live/387.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 中国之声,http://live.xmcdn.com/live/1065/64.m3u8
+CNR 中国之声,http://ls.qingting.fm/live/386.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 音乐之声,http://live.xmcdn.com/live/12/64.m3u8
+CNR 音乐之声,http://ls.qingting.fm/live/388.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 经典音乐广播 101.8,http://live.xmcdn.com/live/13/64.m3u8
+CNR 经典音乐广播 101.8,http://ls.qingting.fm/live/389.m3u8
+CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 中华之声,http://live.xmcdn.com/live/14/64.m3u8
+CNR 中华之声,http://ls.qingting.fm/live/390.m3u8
+CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 神州之声,http://live.xmcdn.com/live/15/64.m3u8
+CNR 神州之声,http://ls.qingting.fm/live/391.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 华夏之声,http://live.xmcdn.com/live/16/64.m3u8
+CNR 华夏之声,http://ls.qingting.fm/live/392.m3u8
+CNR 华夏之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 香港之声,http://live.xmcdn.com/live/44/64.m3u8
+CNR 香港之声,http://ls.qingting.fm/live/4986.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 民族之声,http://live.xmcdn.com/live/17/64.m3u8
+CNR 民族之声,http://ls.qingting.fm/live/394.m3u8
+CNR 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8
+CNR 文艺之声,http://ls.qingting.fm/live/395.m3u8
+CNR 文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 老年之声,http://live.xmcdn.com/live/39/64.m3u8
+CNR 老年之声,http://ls.qingting.fm/live/396.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+CNR 中国乡村之声,http://live.xmcdn.com/live/46/64.m3u8
+CNR 中国乡村之声,http://ls.qingting.fm/live/5039.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
+CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CNR 藏语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 维语广播,http://live.xmcdn.com/live/40/64.m3u8
+CNR 维语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR 娱乐广播,http://live.xmcdn.com/live/42/64.m3u8
+CNR 娱乐广播,http://ls.qingting.fm/live/398.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
+CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
+CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
