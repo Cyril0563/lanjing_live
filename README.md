@@ -37,17 +37,20 @@
 <h5>PLUS版源包含:央视频道+地方频道+少儿频道+港澳频道+电影频道+景区直播+电台之声+高清专属4k （频道全面、任君选择、拓宽知识）</h5>
 <h5>LIGHT版源包含:央视频道+地方频道+高清专属4k（简洁清爽、自用或给年长用户观看）</h5>
 <h5>服务器地区(国内直连)：</h5>
+
+### 国内接口由于不可抗拒原因，请去上方公众号获取(海外用户请忽略)!
+
 <p>华东地区【荐】
-<P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json</P>
-<P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_light.json</P>
+<P>PLUS版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json</del></P>
+<P>LIGHT版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_light.json</del></P>
 </P>
 <p>华南地区【备选】
-<P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_plus.json</P>
-<P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_light.json</P>
+<P>PLUS版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_plus.json</P>
+<P>LIGHT版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hn/live_light.json</P>
 </P>
 <p>香港HK区【港澳台】
-<P>PLUS版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hk/live_plus.json</P>
-<P>LIGHT版：https://gitee.com/Cyril0563/lanjing_live/raw/master/hk/live_light.json</P>
+<P>PLUS版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hk/live_plus.json</P>
+<P>LIGHT版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hk/live_light.json</P>
 <h5>服务器地区(镜像访问)：</h5>
 <p>华东地区【荐】
 <P>PLUS版：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_plus.json</P>
