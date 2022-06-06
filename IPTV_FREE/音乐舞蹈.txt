@@ -1,0 +1,76 @@
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
+SNH48剧场,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
+SNH48剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432328
+音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+音乐小石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+音乐Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+音乐MusicTop,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+M2音乐,http://live.m2.tv/hls3/stream.m3u8
+M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+意大利V2,http://de1se01.v2beat.live/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
+俄罗斯HOBOK,http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+欧美动感DJ,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+韩国动感舞曲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+朴孝敏 –SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+欧美高清动感歌曲1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+欧美高清动感歌曲2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+欧美群星-天下一家,http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4
+迈克尔杰克逊,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+泫雅-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+僵尸跳舞David Jones,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+MTV僵尸舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+Alan Walker-feat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
+Sistar - Give,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+School - 初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+Rainbow Blaxx,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IS24gUovcix_AI.mp4
+Marionette,http://video.yidianzixun.com/video/get-url?key=video/701b87f7467c0bc1dad16a60a1848446.mp4
+Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+金泫雅,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+韩国太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
+韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+韩国太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+韩国太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+韩国太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+韩国太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韩国太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韩国太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+韩国太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韩国太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韩国太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韩国太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+韩国太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+韩国太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韩国太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+韩国太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韩国太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+韩国太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韩国太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+韩国太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+韩国太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+韩国太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+韩国太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+韩国太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+韩国太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
