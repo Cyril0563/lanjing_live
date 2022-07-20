@@ -1,0 +1,54 @@
+韩国-ARS,https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+韩国-Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+韩国-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+韩国-BBS ,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+Fashion & Lifestyle (UA),http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+韩国-KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国-KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+韩国-KCTV_CH05,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国-KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
+韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+韩国-NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+日本-NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日本-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+韩国-SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国-TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+韩国-TJB (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+韩国-TV5 INFO,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+韩国-阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日韩频道,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+泰国-公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+新加坡-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+韩国-MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+越南-antvliv,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南-VBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+越南-Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+老挝-LaoChampaTV2,https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
+印尼-BeritaSatuWorld,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+印尼-TVRISports,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+印尼-TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+印尼-Aditv,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+印尼-BERITASATUNEWS,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+印尼-METROTV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+印尼-JAKARTAGLOBE,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+菲律宾-INC,https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
+印度-ABPAsmita,http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
+伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
+伊朗-RangarangTV,http://iptv.rangarang.us/live/playlist.m3u8
+阿拉伯半岛电视新闻网AlHurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+柬埔寨-SEATV,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
