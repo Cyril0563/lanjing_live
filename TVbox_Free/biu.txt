@@ -1,5 +1,5 @@
 {"zhuyejiekou": [
-{"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"name": "公众号：源享家，免费获取最新稳定接口！","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"Hi影视","url":"http://114.132.251.111:999/lvdou_api.php/v1.vod"},
 {"name": "会员影院","url": "http://360yy.cn/api.php/app/"},
 {"name": "饭后电影","url": "http://yinliub.cn/lvdou_api.php/v1.vod"},
