@@ -40,12 +40,6 @@
 <P>Pluto PlayerCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
 <P>BiuBiuCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/biu.txt</P>
 
-#### 压缩短网址：
-
-<P>TVbox接口：http://8e9.cn/I0AyC</P>
-<P>Pluto Player接口：http://8e9.cn/I0AyC</P>
-<P>BiuBiu接口：http://8e9.cn/reXLU</P>
-</P>
 
 #### --------------------------------------22年8月改版分割线------------------------------------------------------------
 
