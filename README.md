@@ -33,17 +33,21 @@
 <P>2.  可以看到第二行当前配置接口显示为“默认”，点击后会弹出输入接口地址，复制🐋蓝鲸直播源接口粘贴即可。（也可用手机复制🐋蓝鲸直播源接口后，扫码然后粘贴）</P>
 <P>3.  完成以上步骤后会看到当前配置接口已经为🐋蓝鲸直播源接口，然后返回重新进去APP即可加载数据源。</P>
 
-<h4>接口地址：（一周~两周会维护一次直播源，平稳在线 最新直播源维护时间为2022年8月2日）</h4>
-<h5>PLUS版源包含:央视频道+地方频道+少儿频道+港澳频道+电影频道+景区直播+电台之声+高清专属4k （频道全面、任君选择、拓宽知识）</h5>
-<h5>LIGHT版源包含:央视频道+地方频道+高清专属4k（简洁清爽、自用或给年长用户观看）</h5>
 
-
-### 国内接口由于不可抗拒原因（恶意攻击），请去上方公众号获取(海外用户请往下看)!
+### 【新版】免费CDN加速接口如下，请免费自取👇👇👇
 <p>
-<P>PLUS版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_plus.json</del></P>
-<P>LIGHT版：<del>https://gitee.com/Cyril0563/lanjing_live/raw/master/hd/live_light.json</del></P>
+<P>TVboxCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
+<P>Pluto PlayerCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
+<P>BiuBiuCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/biu.txt</P>
+
+#### 压缩短网址：
+
+<P>TVbox接口：http://8e9.cn/I0AyC</P>
+<P>Pluto Player接口：http://8e9.cn/I0AyC</P>
+<P>BiuBiu接口：http://8e9.cn/reXLU</P>
 </P>
 
+#### --------------------------------------22年8月改版分割线------------------------------------------------------------
 
 <h5>境外用户自行选择下方接口使用(镜像加速)：</h5>
 <p>华东地区【荐】
