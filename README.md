@@ -34,7 +34,7 @@
 <P>3.  完成以上步骤后会看到当前配置接口已经为🐋蓝鲸直播源接口，然后返回重新进去APP即可加载数据源。</P>
 
 
-### 【新版】免费CDN加速接口如下，请免费自取👇👇👇
+### 【新版】免费CDN加速接口如下，请免费自取，更稳定快速的接口请去上方👆👆公众号获取！
 <p>
 <P>TVboxCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
 <P>Pluto PlayerCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
