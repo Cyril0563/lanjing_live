@@ -6,6 +6,8 @@
 ![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
 <p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
 
+#### 便于交流，资源共享QQ群:835387660，欢迎加入，群内禁止广告！
+
 <h3 align="left">M3U8源如何使用</h3>
 <p>一、自行复制m3u通用格式，可以转换成DPL、MiTV、NewTv、Json格式来使用</P>
 <p>二、下载的免费电视端APP直接打开使用</p>
