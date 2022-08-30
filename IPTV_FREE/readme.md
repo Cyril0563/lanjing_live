@@ -14,7 +14,7 @@ M3U标准格式:https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/IP
 
 M3U标准格式(CDN):https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/IPTV_FREE/live.m3u
 
-(👆👆👆上方接口Kodi、DHCP、通用软件都可以使用！)
+(👆👆👆上方接口Kodi、DHCP、通用软件导入都可以使用！)
 
 DPL格式：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/IPTV_FREE/DPL%E6%A0%BC%E5%BC%8F%E7%9B%B4%E6%92%AD%E6%BA%90.txt
 
