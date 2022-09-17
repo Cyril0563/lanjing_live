@@ -5,6 +5,7 @@
 
 ![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
 <p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
+<p>回复关键词“<b>接口</b>”获取相关内容！</P>
 
 #### 便于交流，资源共享QQ群:835387660，欢迎加入，群内禁止广告！如果群号搜索不到，请关注上方公众号获取更多！
 
