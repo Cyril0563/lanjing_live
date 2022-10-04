@@ -1,0 +1,21 @@
+Astro Awani,https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+Astro Vaanavil,https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+Berita RTM (1080p),https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+Bernama TV (1080p),http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+CinemaWorld (576p),http://210.210.155.35/dr9445/h/h04/index.m3u8
+CinemaWorld (576p),http://210.210.155.37/dr9445/h/h04/index.m3u8
+Drama Sangat (720p),https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+Egg Network (720p),http://210.210.155.37/uq2663/h/h22/index.m3u8
+Hello,https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
+Maah TV (720p),http://51.210.199.33/hls/stream.m3u8
+NTV 7 (480p),https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+OKEY (1080p),https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+Sukan RTM (1080p),https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+TV1 (1080p),https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+TV2 (1080p),https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+TV3 (720p),https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+TV6 (1080p),https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+TV8 (480p),https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+TV9 (480p),https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+TVIKIM (720p),http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+TVS (576p),https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8

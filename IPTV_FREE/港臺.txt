@@ -1,0 +1,124 @@
+翡翠台,mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
+翡翠台,mitv://ns2.hellotvvod.com:9906/5b6bd16bd77340f9b4ab4b6b9c97d25c
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.157/sat/tv051
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.157/sat/tv071
+中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.157/sat/tv091
+华视,rtmp://59.124.75.138/sat/tv111
+华视,rtmp://59.124.75.157/sat/tv111
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新闻,rtmp://59.124.75.157/sat/tv551
+TVBS欢乐,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐,rtmp://59.124.75.157/sat/tv421
+东森财经新闻,rtmp://59.124.75.138/sat/tv571
+东森财经新闻,rtmp://59.124.75.157/sat/tv571
+纬来育乐,rtmp://59.124.75.138/sat/tv701
+纬来育乐,rtmp://59.124.75.157/sat/tv701
+纬来体育,rtmp://59.124.75.138/sat/tv721
+纬来体育,rtmp://59.124.75.156/sat/tv721
+纬来体育,rtmp://59.124.75.157/sat/tv721
+纬来日本,rtmp://59.124.75.138/sat/tv771
+纬来日本,rtmp://59.124.75.157/sat/tv771
+爱尔达体育1,rtmp://59.124.75.138/sat/md011
+爱尔达体育1,rtmp://59.124.75.157/sat/md011
+爱尔达体育2,rtmp://59.124.75.138/sat/md051
+爱尔达体育2,rtmp://59.124.75.157/sat/md051
+爱尔达体育3,rtmp://59.124.75.138/sat/md021
+爱尔达体育3,rtmp://59.124.75.157/sat/md021
+ELEVEN体育一台,rtmp://59.124.75.138/sat/tv731
+ELEVEN体育一台,rtmp://59.124.75.157/sat/tv731
+ELEVEN体育二台,rtmp://59.124.75.138/sat/tv741
+ELEVEN体育二台,rtmp://59.124.75.157/sat/tv741
+ELEVEN体育二台,rtmp://59.124.75.138/sat/md041
+ELEVEN体育二台,rtmp://59.124.75.157/sat/md041
+MoMo综合台,rtmp://59.124.75.138/sat/tv761
+MoMo综合台,rtmp://59.124.75.157/sat/tv761
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+東森財經新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+三立新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
+中視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
+台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+无线新闻,http://ye23.win/iptv/tvb.php?id=1
+无线财经,http://ye23.win/iptv/tvb.php?id=2
+无线新闻,http://ye23.win/iptv/tvb.php?id=4
+无线新闻,http://ye23.win/iptv/tvb.php?id=5
+无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
+无线财经,http://111.229.84.232/yulin/tvb.php?id=2
+翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华日韩,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华偶像,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+环宇新闻,http://59.125.101.187:8528/1.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBSG,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲新闻台,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+天映频道,http://203.77.246.50:5000/udp/239.1.2.162:5000
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+北京新闻,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+BBC World News,http://78.83.191.18:8000/play/a07a
+Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+France24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+DW HD,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+BBC EARTH HD,https://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+BBCLifestyle,https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+BBCLifestyle,https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+DiscoveryAsia,https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+动物星球,https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
