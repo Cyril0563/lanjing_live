@@ -54,6 +54,7 @@ Pluto二次开发版：美化UI、可选专业模式或基础模式、内置浏�
 
 ### 【新版】免费CDN加速接口如下，请免费自取，更稳定快速的接口请去上方👆👆公众号获取！
 <p>
+<P>最新免费接口：http://000913.xyz/box/tv.json</P>
 <P>免费加速接口：http://gg.gg/tvbox7</P>
 <P>TVboxCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
 <P>Pluto PlayerCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
