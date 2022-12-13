@@ -1,0 +1,80 @@
+北京经典调频,http://live.funhillrm.com/4/sd/live.m3u8
+北京文艺广播,http://ls.qingting.fm/live/333.m3u8
+北京交通广播,http://ls.qingting.fm/live/336.m3u8
+北京音乐广播,http://ls.qingting.fm/live/332.m3u8
+北京新闻广播,http://ls.qingting.fm/live/339.m3u8
+北京城市广播,http://ls.qingting.fm/live/345.m3u8
+北京故事广播,http://ls.qingting.fm/live/337.m3u8
+北京外语广播,http://ls.qingting.fm/live/334.m3u8
+北京青年广播,http://ls.qingting.fm/live/347.m3u8
+CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CRI环球资讯,http://sk.cri.cn/905.m3u8
+CRI英语资讯,http://cnlive.cnr.cn/hls/yyzxgb.m3u8
+CRI中文环球,http://sk.cri.cn/hyhq.m3u8
+CRI南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI世界华声,http://sk.cri.cn/hxfh.m3u8
+BCC中广音乐,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+BCC中广新闻,http://stream.rcs.revma.com/78fm9wyy2tzuv
+BCC中广流行,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
+Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
+Country Hits,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
+Country Roads,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
+Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
+Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
+Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+Today\'s Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+80后音悦,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+DRHK,http://ice.digitalradiohk.net:8000/drhk
+One FM,http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
+Gold FM,http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+Hao FM,http://23683.live.streamtheworld.com:3690/HAO_963_SC
+Kiss FM,http://22253.live.streamtheworld.com:3690/KISS_92.mp3
+Class FM,http://22393.live.streamtheworld.com/CLASS95.mp3
+Money FM,http://22253.live.streamtheworld.com/MONEY_893.mp3
+Power FM,https://crystalout.surfernetwork.com:8001/KVSP_MP3
+CGTN News,http://sk.cri.cn/am846.m3u8
+Capital FM,http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
+CNA938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+NPR News,http://npr-ice.streamguys1.com/live.mp3
+Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
+BBC News,https://18123.live.streamtheworld.com/WUAL_HD3AAC.aac
+CNBC Radio,https://tunein.streamguys1.com/cnbc
+LBC News,https://icecast.thisisdax.com/LBCNewsUKMP3
+LBC UK,https://ice-sov.musicradio.com/LBCUKMP3
+Times Radio,http://timesradio.wireless.radio/stream
+BBC Radio 1,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+BBC 1 Xtra,http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
+BBC Radio 2,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+BBC Radio 3,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+BBC Radio 4,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+BBC 4 Xtra,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
+BBC Radio 5,http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+BBC Radio 6,http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+News Radio UK,http://playoutonestreaming.com:8008/stream
+MSNBC Radio,http://peridot.streamguys.com:7850/live
