@@ -1,0 +1,66 @@
+欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-16 奥林匹克4K,https://live.v1.mk/aishang/cctv164k
+爱上4K,https://live.v1.mk/aishang/as4k
+4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
+4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
+CCTV-1 综合,https://live.v1.mk/aishang/cctv1hd
+CCTV-2 财经,https://live.v1.mk/aishang/cctv2hd
+CCTV-3 综艺,https://live.v1.mk/aishang/cctv3hd
+CCTV-4 中文国际,https://live.v1.mk/aishang/cctv4hd
+CCTV-5 体育,https://live.v1.mk/aishang/cctv5hd
+CCTV-5+ 体育赛事,https://live.v1.mk/aishang/cctv5p
+CCTV-6 电影,https://live.v1.mk/aishang/cctv6hd
+CCTV-7 国防军事,https://live.v1.mk/aishang/cctv7hd
+CCTV-8 电视剧,https://live.v1.mk/aishang/cctv8hd
+CCTV-9 纪录,https://live.v1.mk/aishang/cctv9hd2
+CCTV-10 科教,https://live.v1.mk/aishang/cctv10hd
+CCTV-11 戏曲,https://live.v1.mk/aishang/cctv11hd
+CCTV-12 社会与法,https://live.v1.mk/aishang/cctv12hd
+CCTV-13 新闻,https://live.v1.mk/aishang/cctv13hd
+CCTV-14 少儿,https://live.v1.mk/aishang/cctv14hd
+CCTV-15 音乐,https://live.v1.mk/aishang/cctv15hd
+CCTV-16 奥林匹克,https://live.v1.mk/aishang/cctv16hd
+CCTV-17 农业农村,https://live.v1.mk/aishang/cctv17hd
+CGTN,https://live.v1.mk/aishang/cgtnhd
+湖南卫视,https://live.v1.mk/aishang/hunwshd
+浙江卫视,https://live.v1.mk/aishang/zjwshd
+东方卫视,https://live.v1.mk/aishang/dfwshd
+江苏卫视,https://live.v1.mk/aishang/jswshd
+北京卫视,https://live.v1.mk/aishang/bjwshd
+深圳卫视,https://live.v1.mk/aishang/szwshd
+山东卫视,https://live.v1.mk/aishang/sdwshd
+广东卫视,https://live.v1.mk/aishang/gdwshd
+安徽卫视,https://live.v1.mk/aishang/ahwshd
+东南卫视,https://live.v1.mk/aishang/dnwshd
+天津卫视,https://live.v1.mk/aishang/tjwshd
+重庆卫视,https://live.v1.mk/aishang/cqws
+湖北卫视,https://live.v1.mk/aishang/hubwshd
+四川卫视,https://live.v1.mk/aishang/scws
+河南卫视,https://live.v1.mk/aishang/hnws
+陕西卫视,https://live.v1.mk/aishang/sxws
+吉林卫视,https://live.v1.mk/aishang/jlws
+云南卫视,https://live.v1.mk/aishang/ynws
+广西卫视,https://live.v1.mk/aishang/gxws
+江西卫视,https://live.v1.mk/aishang/jxws
+黑龙江卫视,https://live.v1.mk/aishang/hljwshd
+河北卫视,https://live.v1.mk/aishang/hbwshd
+青海卫视,https://live.v1.mk/aishang/qhws
+贵州卫视,https://live.v1.mk/aishang/gzwshd
+西藏卫视,https://live.v1.mk/aishang/xzws
+甘肃卫视,https://live.v1.mk/aishang/gsws
+新疆卫视,https://live.v1.mk/aishang/xjws
+厦门卫视,https://live.v1.mk/aishang/xmws
+内蒙古卫视,https://live.v1.mk/aishang/nmws
+CHC动作电影,https://live.v1.mk/aishang/chcdzdy
+CHC高清电影,https://live.v1.mk/aishang/chcgqdy
+CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
+中国教育,https://live.v1.mk/aishang/cetv1hd
+中国教育2,https://live.v1.mk/aishang/cetv2
+中国教育4,https://live.v1.mk/aishang/cetv4
+山东教育卫视,https://live.v1.mk/aishang/sdjy
+金鹰纪实,https://live.v1.mk/aishang/jyjs
+金鹰卡通,https://live.v1.mk/aishang/jykt
+卡酷少儿,https://live.v1.mk/aishang/kkse
+嘉佳卡通,https://live.v1.mk/aishang/jjkt
+新动漫,https://live.v1.mk/aishang/xdm
