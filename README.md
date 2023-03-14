@@ -6,6 +6,7 @@
 ![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
 <p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
 <p>回复关键词“<b>接口</b>”获取相关内容！</P>
+<p>回复关键词“<b>直播源</b>”获取直播源内容！</P>
 
 
 
