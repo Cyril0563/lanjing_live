@@ -33,3 +33,7 @@ TVB,https://公众号.源享家.ml/tw.php?id=16106
 KotiTV,https://公众号.源享家.ml/tw.php?id=16106
 AniPlus,https://公众号.源享家.ml/tw.php?id=16106
 TVB Jade,https://公众号.源享家.ml/tw.php?id=16106
+
+
+
+仅自行使用，如果你很想用，使用前请Punycode替换
