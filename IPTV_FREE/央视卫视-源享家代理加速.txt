@@ -103,3 +103,6 @@ NewTV精品萌宠HD,https://公众号.源享家.ml/cn.php?id=3221226505
 江西风尚购物HD,https://公众号.源享家.ml/cn.php?id=3221225679
 安徽家家购物HD,https://公众号.源享家.ml/cn.php?id=3221226065
 湖南快乐购HD,https://公众号.源享家.ml/cn.php?id=3221226094
+
+
+仅自行使用，如果你很想用，使用前请Punycode替换
