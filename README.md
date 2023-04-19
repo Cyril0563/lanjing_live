@@ -8,11 +8,19 @@
 <p>回复关键词“<b>接口</b>”获取相关内容！</P>
 <p>回复关键词“<b>直播源</b>”获取直播源内容！</P>
 
-[IPTV直播源下载(高速通道)](https://fast.uc.cn/s/0be1a9b710104)
+[IPTV直播源下载](https://fast.uc.cn/s/0be1a9b710104)
 密码：VYuU
+<p>
+
+[一些值得推荐的APP](https://fast.uc.cn/s/5d247170b9674)
+密码：zrwB
+
+<p>
+
+#### !!! 防止失效，请点击"全部转存至网盘"
 
 
-
+<p>
 <h3 align="left">M3U8源如何使用</h3>
 <p>一、自行复制m3u通用格式，可以转换成DPL、MiTV、NewTv、Json格式来使用</P>
 <p>二、下载的免费电视端APP直接打开使用</p>
