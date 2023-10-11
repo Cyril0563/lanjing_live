@@ -105,7 +105,6 @@ NewTV精品萌宠 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221
 江西风尚购物 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
 安徽家家购物 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
 湖南快乐购 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226094/index.m3u8
-测试,rtsp://admin:OYHIBR@10.10.10.187:554/h264/ch1/main/av_stream
 
 
 江苏高清,#genre#
