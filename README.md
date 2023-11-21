@@ -3,13 +3,12 @@
 <h3 align="left">长期维护电视直播接口、TVbox、IPTV、BIUBIU TV、等影视及m3u8播放器通用接口都可以观看</h3>
 
 
-![输入图片说明](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/codes.png)
-<p>(图片不显示 搜索公众号“源享家”，或yuanxiangjia8)</p>
-<p>回复关键词“<b>接口</b>”获取相关内容！</P>
-<p>回复关键词“<b>直播源</b>”获取直播源内容！</P>
 
 
 
+#### --------------------------------------23年11月21日分割线------------------------------------------------------------
+<h5>世界电视日是现代节日，由联合国设立，定为每年11月21日</h5>
+<p>因不可抗拒原因，暂停更新……</p>
 
 
 
@@ -63,10 +62,10 @@ Pluto二次开发版：美化UI、可选专业模式或基础模式、内置浏�
 <P>[自建]免费在线图床：http://pic.html-5.me</P>
 
 
-### 【新版】免费CDN加速接口如下，请免费自取，更稳定快速的接口请去上方👆👆公众号获取！
+### 【新版】免费CDN加速接口如下，请免费自取
 <p>
 
-##### 11月23最新接口(仅支持最新版APP)：http://源享家.ml/tv
+
 <P>最新免费接口：http://000913.xyz/box/tv.json</P>
 <P>免费加速接口：http://gg.gg/tvbox7</P>
 <P>TVboxCDN接口：https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/tv.txt</P>
@@ -94,16 +93,8 @@ Pluto二次开发版：美化UI、可选专业模式或基础模式、内置浏�
 
 <p> 1.🐋蓝鲸直播源接口只负责维护电视直播源内容，其它任何资源内容均来自网络，与作者无关。（若涉及侵权请联系相关作者处理）</P>
 <P> 2.🐋蓝鲸直播源不存在主动参与任何营利性的内容，以上所有内容仅供学习交流使用，任何人不得私自商用、传播、篡改等，违者承担法律责任。</p>
-<P> 3.🐋蓝鲸直播源内容中如不小心有侵权贵站的任何内容，请及时联系邮箱jthn_cn#yeah.net,#替换为@号。（48小时内及时删除处理）</p>
-
-#### 感谢原作者(吃水不忘挖井人)
-<p>转载复制链接请保留出处：https://github.com/Cyril0563/lanjing_live</p>
-
-#### 给作者来点动力！微信扫一扫加速更新！🙇‍
-<img src="https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/imgs/zanshang.jpg" height="350" width="350" />
 
 
-#### 参与贡献
 
-1.  [Cyril0563](https://github.com/Cyril0563)
-2.  [Winwuyao](https://github.com/wingwuyao)
+
+
