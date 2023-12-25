@@ -1,0 +1,7 @@
+TVB华丽翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB星河频道,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB财经台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+TVB新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+亚洲武侠频道,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
