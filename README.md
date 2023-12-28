@@ -35,17 +35,6 @@
    - https://notabug.org 
 
 
-#### 懒人专属免转换配置
-
-<p>TVbox最新可适配版本</p>
-下载地址(https://jthn.lanzouv.com/b056u34cb)
-密码8888
-<p>
-TVbox接口：https://box.000913.xyz/231225
-</p>
-
-##### 以上接口可看直播，可看影视，仅自用，无商用
-
 
 
 
